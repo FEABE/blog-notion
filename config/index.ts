@@ -1,0 +1,7 @@
+export const NOTION_DATEBASE_TIL =process.env.NOTION_DATEBASE_TIL
+
+export const NOTION_DATEBASE_PROGRAM =process.env.NOTION_DATEBASE_PROGRAM
+
+export const NOTION_DATEBASE_CLOUD =process.env.NOTION_DATEBASE_CLOUD
+
+export const NOTION_TOKEN =process.env.NOTION_TOKEN
