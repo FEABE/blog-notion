@@ -4,6 +4,7 @@ import { ChakraProvider } from '@chakra-ui/react'
 import SidebarWithHeader from '../layout/layout'
 
 
+
 export default function MyApp({ Component, pageProps }: { Component: any, pageProps: any }) {
     const [queryClient] = React.useState(() => new QueryClient())
 
