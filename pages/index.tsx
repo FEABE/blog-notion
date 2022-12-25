@@ -1,4 +1,4 @@
-import { Button } from '@nextui-org/react';
+
 import {NOTION_DATEBASE_TIL,NOTION_DATEBASE_PROGRAM ,NOTION_DATEBASE_CLOUD,NOTION_TOKEN} from '../config/index'
 import axios from 'axios';
 
@@ -7,7 +7,6 @@ const Home = ({DATATABLE}:any) => {
   console.log(DATATABLE[0].id)
   return (
   <>
-    <Button>hi</Button>
 
   </>
   )
